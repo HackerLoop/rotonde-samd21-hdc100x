@@ -5,8 +5,8 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/hdc100x.h"
-#include "modules/modules/hdc100x.h"
+#include "../drivers/hdc100x.h"
+#include "./hdc100x.h"
 
 #include "registrar/registrar.h"
 #include "tasks/modules.h"

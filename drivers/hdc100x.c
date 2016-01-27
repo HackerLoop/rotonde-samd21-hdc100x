@@ -5,7 +5,7 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/hdc100x.h"
+#include "./hdc100x.h"
 
 bool HDC100x_init(void){
 	
